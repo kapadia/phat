@@ -1,0 +1,13 @@
+{
+  "name": "PHAT",
+  "description": "Huge mosaic for M31 using data from the PHAT HST survey",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "cake server"
+  },
+  "devDependencies": {
+    "http-server": "0.5.x",
+    "coffee-script": "1.6.x"
+  },
+  "engine": "node >= 0.10.12"
+}
